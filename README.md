@@ -52,7 +52,7 @@ The objective is to design a complete communication system that:
 
 ## 📊 Results
 
-# Message signal generation
+### Message signal generation
 
 
    <img width="543" height="513" alt="Message signal generation" src="https://github.com/user-attachments/assets/2e5e1359-b5ba-4813-96f1-07a2b1e2478c" />
