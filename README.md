@@ -54,25 +54,21 @@ The objective is to design a complete communication system that:
 
 The simulation successfully demonstrates:
 - Message signal generation
-  <img width="543" height="513" alt="1" src="https://github.com/user-attachments/assets/f0c83636-c521-4164-88ac-7155fce110e5" />
-  
+  ![image alt](<img width="543" height="513" alt="1" src="https://github.com/user-attachments/assets/f0c83636-c521-4164-88ac-7155fce110e5" />)
 ---
 
 - Carrier signal generation
-  <img width="581" height="543" alt="2" src="https://github.com/user-attachments/assets/37f6c492-c528-400a-82b8-c1e3f0e0b9d5" />
-
+   ![image alt](<img width="581" height="543" alt="2" src="https://github.com/user-attachments/assets/37f6c492-c528-400a-82b8-c1e3f0e0b9d5" />)
 ---
 
 
 - AM modulated waveform
-  <img width="565" height="541" alt="3" src="https://github.com/user-attachments/assets/892e10e3-5e4b-4bbf-bf21-5f192bfb00cb" />
-
+   ![image alt](<img width="565" height="541" alt="3" src="https://github.com/user-attachments/assets/892e10e3-5e4b-4bbf-bf21-5f192bfb00cb" />)
 ---
 
 
 - Accurate recovery of the original message signal
-  <img width="686" height="642" alt="4" src="https://github.com/user-attachments/assets/03e30118-294e-4de3-a0fe-ce1976ced133" />
-
+  ![image alt](  <img width="686" height="642" alt="4" src="https://github.com/user-attachments/assets/03e30118-294e-4de3-a0fe-ce1976ced133" />)
 
 
 
