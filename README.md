@@ -49,6 +49,20 @@ The objective is to design a complete communication system that:
    - Received Signal Scope
 
 ---
+## Implemntation 
+
+
+
+
+<img width="723" height="368" alt="لقطة الشاشة 2026-02-27 215233" src="https://github.com/user-attachments/assets/08472a5e-2189-4480-8443-ac217691a943" />
+
+
+
+
+
+---
+
+
 
 ## 📊 Results
 
