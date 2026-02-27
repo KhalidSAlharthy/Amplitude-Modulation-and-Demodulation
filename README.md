@@ -54,7 +54,7 @@ The objective is to design a complete communication system that:
 
 The simulation successfully demonstrates:
 - Message signal generation
-  ![image alt](Carrier signal generation.png)
+  ![image alt](https://github.com/KhalidSAlharthy/Amplitude-Modulation-and-Demodulation/blob/190d38f831cab04c7265b3f9e993db5a5d8d0f63/Message%20signal%20generation.png)
 ---
 
 - Carrier signal generation
