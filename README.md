@@ -54,7 +54,7 @@ The objective is to design a complete communication system that:
 
 The simulation successfully demonstrates:
 - Message signal generation
-  ![image alt](<img width="543" height="513" alt="1" src="https://github.com/user-attachments/assets/f0c83636-c521-4164-88ac-7155fce110e5" />)
+  ![image alt](Carrier signal generation.png)
 ---
 
 - Carrier signal generation
