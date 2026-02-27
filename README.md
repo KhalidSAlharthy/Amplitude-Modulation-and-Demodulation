@@ -52,11 +52,27 @@ The objective is to design a complete communication system that:
 
 ## 📊 Results
 
-### Message signal generation
+### 1.Message signal generation
 
 
    <img width="543" height="513" alt="Message signal generation" src="https://github.com/user-attachments/assets/2e5e1359-b5ba-4813-96f1-07a2b1e2478c" />
 
 
+### 2.Carrier signal generation
+
+
+   <img width="581" height="543" alt="Carrier signal generation" src="https://github.com/user-attachments/assets/2d23d4a7-efdb-437d-a9c1-0255ff3923d8" />
+
+
+### 3.AM modulated waveform
+
+
+   <img width="565" height="541" alt="AM modulated waveform" src="https://github.com/user-attachments/assets/3c8c082b-b80a-474f-a735-571cf4c7d1b0" />
+
+
+### 4.Accurate recovery of the original message signal
+
+
+  <img width="686" height="642" alt="Accurate recovery of the original message signal" src="https://github.com/user-attachments/assets/a83a755e-ebcc-4603-9c03-a849ddb40819" />
 
 
