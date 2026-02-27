@@ -52,23 +52,25 @@ The objective is to design a complete communication system that:
 
 ## 📊 Results
 
-The simulation successfully demonstrates:
-- Message signal generation
-  ![image alt](https://github.com/KhalidSAlharthy/Amplitude-Modulation-and-Demodulation/blob/190d38f831cab04c7265b3f9e993db5a5d8d0f63/Message%20signal%20generation.png)
+
+  Message signal generation:
+     <img width="543" height="513" alt="Message signal generation" src="https://github.com/user-attachments/assets/634d7c64-69c8-4cab-a496-f4f56803bcbf" />
 ---
 
-- Carrier signal generation
-   ![image alt](<img width="581" height="543" alt="2" src="https://github.com/user-attachments/assets/37f6c492-c528-400a-82b8-c1e3f0e0b9d5" />)
----
+   Carrier signal generation:
+     <img width="581" height="543" alt="Carrier signal generation" src="https://github.com/user-attachments/assets/33d9452a-f65f-45c0-9f86-0f7c2e2f41df" />
 
-
-- AM modulated waveform
-   ![image alt](<img width="565" height="541" alt="3" src="https://github.com/user-attachments/assets/892e10e3-5e4b-4bbf-bf21-5f192bfb00cb" />)
 ---
 
 
-- Accurate recovery of the original message signal
-  ![image alt](  <img width="686" height="642" alt="4" src="https://github.com/user-attachments/assets/03e30118-294e-4de3-a0fe-ce1976ced133" />)
+   AM modulated waveform:
+   <img width="565" height="541" alt="AM modulated waveform" src="https://github.com/user-attachments/assets/769262d7-712a-4582-b0f2-66baa61bf181" />
+
+---
+
+   Accurate recovery of the original message signal:
+   <img width="686" height="642" alt="Accurate recovery of the original message signal" src="https://github.com/user-attachments/assets/f25bfb67-e933-4fd3-a575-59cf6098cc01" />
+
 
 
 
