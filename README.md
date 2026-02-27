@@ -14,7 +14,7 @@ The objective is to design a complete communication system that:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Design an AM modulator in Simulink
 - Design an AM demodulator
@@ -22,7 +22,7 @@ The objective is to design a complete communication system that:
 
 ---
 
-## 🔧 Components Used
+## Components Used
 
 1. **Signal Generators (3x)**  
    Used to generate the message signal and carrier signals:
@@ -49,6 +49,7 @@ The objective is to design a complete communication system that:
    - Received Signal Scope
 
 ---
+
 ## Implemntation 
 
 
@@ -64,7 +65,7 @@ The objective is to design a complete communication system that:
 
 
 
-## 📊 Results
+## Results
 
 ### 1.Message signal generation
 
